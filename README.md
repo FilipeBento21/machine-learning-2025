@@ -47,12 +47,17 @@ Durante o curso, explorei o uso de árvores de decisão para resolver problemas 
 Esses exemplos demonstram como o modelo realiza divisões lógicas a partir de atributos, buscando minimizar a impureza Gini e definir a classe final.
 
 🍎 Classificação Didática – Frutas
-<p align="center"> <img src="machine-learning-2025\Imagens\arvore_de_decisao_frutas.jpg.png" width="600" alt="Árvore de Decisão - Frutas"> </p>
+<p align="center">
+  <img src="Imagens/arvore_de_decisao_frutas.jpg.png" width="600" alt="Árvore de Decisão - Frutas">
+</p>
+
 
 Exemplo básico usado para entender a lógica de divisão e classificação de dados categóricos.
 
 ⚙️ Classificação Real – Case StarWars
-<p align="center"> <img src="machine-learning-2025\Imagens\arvore_de_decisao_clones.jpg.png"> </p>
+<p align="center">
+  <img src="Imagens/arvore_de_decisao_clones.jpg.png" width="600" alt="Árvore de Decisão - Clones">
+</p>
 
 Exemplo prático de como árvores de decisão podem ser aplicadas em um contexto industrial para classificar itens como “Apto” ou “Defeituoso” com base em atributos contínuos.
 
